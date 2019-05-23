@@ -1,0 +1,7 @@
+out/
+*.idea/
+
+deque.iml
+LinkedListDequeTest.java
+PalindromeFinder.java
+
